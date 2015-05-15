@@ -4,13 +4,13 @@ PELICANOPTS=None
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
-OUTPUTDIR=$(BASEDIR)/physics
+OUTPUTDIR=$(BASEDIR)/physics/fall2015
 CONFFILE=$(BASEDIR)/pelican.conf.py
 THEME=elegant-course
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/courses/physics/
+SSH_TARGET_DIR=markbetnel.com/courses/physics/fall2015
 
 DROPBOX_DIR=~/Dropbox/Public/
 

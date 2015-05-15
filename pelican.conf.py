@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"SAAS Physics"
-SITEURL = 'http://markbetnel.com/courses/physics/'
+SITENAME = u"SAASPhysics Fall2015"
+SITEURL = 'http://markbetnel.com/courses/physics/fall2015'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
