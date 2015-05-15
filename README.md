@@ -1,4 +1,10 @@
-Bare template for a course website using the pelican blog engine. 
+A course website and planning documents for Physics, as taught at Seattle Academy of Arts and Sciences.
+
+This is essentially a college-level course, taught using calculus (though with gentle introductions to all calculus concepts as needed, as some students taking the class have not yet completed Calculus.  
+
+The course uses the new Eric Mazur textbook, `Principles and Practice of Physics <http://www.pearsonhighered.com/mazur1einfo/>`_.
+
+
 
 Currently using a modification of the elegant theme, elegant-course.
 

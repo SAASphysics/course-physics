@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"TODOCourse Name on Header"
-SITEURL = 'TODOhttp://full/url/toserver'
+SITENAME = u"SAAS Physics"
+SITEURL = 'http://markbetnel.com/courses/physics/'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
