@@ -6,6 +6,11 @@ Outline
 :tags: outline, topics
 
 
+
+
+The following outline corresponds roughly to chapters of the textbook, Eric Mazur's **Principles and Practice of Physics**.
+
+
 1. Foundations of physics
 
    a. History and Methods
