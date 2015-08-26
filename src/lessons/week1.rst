@@ -13,16 +13,26 @@ First week, starts on Wednesday, all single blocks
 Day 1
 =====
 
-Stuff about foudations of physics
+ 1. Fermi problems
+
+ 2. How does the grading system work?
+
 
 =====
 Day 2
 =====
+
+ 1. Constructing a testable hypothesis
+
+ 2. Estimating and figuring
 
 
 =====
 Day 3
 =====
 
+ 1. Units & conversion
+
+ 2. Estimating and figuring
 
    
