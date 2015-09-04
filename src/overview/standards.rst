@@ -67,6 +67,9 @@ II.  Motion (M.1 - M.9)
 .. _M.9: tags.html#M.9-ref
 
 
-III. 
+
+
+(more to come as we move through the course)
+ 
 
 
