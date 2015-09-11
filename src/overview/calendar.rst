@@ -7,7 +7,6 @@ Calendar
 :tags: overview, calendar, homework, quizzes, due dates
 :status: draft
 
-TODO: Use an iframe to link a google calendar or other for the course assignments
 
 .. raw:: html
 

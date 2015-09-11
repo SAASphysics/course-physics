@@ -13,16 +13,31 @@ No school Monday (Rosh Hashanah), first double blocks
 Day 1
 =====
 
- 1. Significant digits
+ 1. Taking notes
 
- 2. Estimating and figuring -- Do significant digits matter?
+ 2. Finishing Fermi problems
+
+ 3. Expressing unit conversion as a program
+
+ 4. The book
+
+ 5. Read Chapter 1 of Principles of Physics
+
+ 6. Do problems from Practice of Physics, Ch.1: 14, 15, 16, 22, 24, 26, 37, 38, 39, 40, 41, 42
+
+
 
 
 =====
 Day 2
 =====
 
- 1. First lab day -- measuring motion
+ 1. Unit conversion programs 
+
+ 2. Homework time in groups
+
+ 3. Estimation and significant digits
+
 
 =====
 Day 3

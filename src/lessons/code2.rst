@@ -5,6 +5,8 @@ Coding Assignment 2
 :summary: Programming assignment two for simulating motion
 :category: lessons
 :tags: motion, trinket, programming, kinematics
+:status: draft
+
 
 Change the following program to add a third particle moving at constant speed.
 

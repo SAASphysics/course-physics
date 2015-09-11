@@ -9,27 +9,16 @@ Week 1 Materials
 
 First week, starts on Thursday, all single blocks
 
-=====
-Day 1
-=====
+===========
+Day 1 and 2
+===========
 
 
 Enrico Fermi was a Nobel Prize winning physicist who was famous in the physics community for his ability to calculate (in his head) remarkably precise answers to seemingly impossible questions.  He was present at the first test of an atomic bomb, the Trinity test at Alamogordo, New Mexico in 1945, and he was able to estimate the explosive yield of the bomb by dropping a piece of paper on theground and observing how far its flight deviated from straight down as the shockwave passed him.
 
- 1. Question -- is it clear to everyone what you are trying to answer?
- 2. Make a guess. Include a range of the lowest and highest possible values.
- 3. Make an educated guess through a combination of calculation and estimation.
- 4. Refine if necessary. 
- 
 
 
-=====
-Day 2
-=====
-
- 1. Estimating and figuring and unit conversion.
-
-Fermi problems are really a kind of unit conversion:
+Fermi problems are really a kind of unit conversion. Here's another of Fermi's more famous examples, estimating the number of piano tuners that live in Chicago:
 
 
     * There are approximately 9,000,000 people living in Chicago.
@@ -51,16 +40,15 @@ Dividing gives
 
     (225,000 piano tunings per year in Chicago) / (1000 piano tunings per year per piano tuner) = 225 piano tuners in Chicago. 
 
-You may quibble about the precise numbers used in each step, but if the task is to estimate how many piano tuners there are (rather than just look it up), these *are* the calculations you need to do.
-
-Similarly, how do you:
-
- 2. convert from feet to miles?
-
- 3. convert from miles per hour to furlongs per fortnight?
+You may quibble about the precise numbers used in each step, but if the task is to estimate how many piano tuners there are (rather than just look it up), these *are* the calculations you need to do, and refining the estimate just requires getting better estimates for each "conversion" step in the process.
 
 
+When you are trying to solve a problem like this,you should start with the following steps:
 
 
+ 1. Question -- is it clear to everyone what you are trying to answer?
+ 2. Make a guess. Include a range of the lowest and highest possible values.
+ 3. Make an educated guess through a combination of calculation and estimation -- this is the "conversion" process.
+ 4. Refine if necessary. 
 
  
