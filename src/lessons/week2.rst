@@ -17,13 +17,11 @@ Day 1
 
  2. Finishing Fermi problems
 
- 3. Expressing unit conversion as a program
+ 3. The book
 
- 4. The book
+ 4. Read Chapter 1 of Principles of Physics
 
- 5. Read Chapter 1 of Principles of Physics
-
- 6. Do problems from Practice of Physics, Ch.1: 14, 15, 16, 22, 24, 26, 37, 38, 39, 40, 41, 42
+ 5. Do problems from Practice of Physics, Ch.1: 14, 15, 16, 22, 24, 26, 37, 38, 39, 40, 41, 42
 
 
 

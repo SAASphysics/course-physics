@@ -9,10 +9,10 @@ HW: Chapter 1
 
 READ: Chapter 1 of Principles of Physics
 
-DO: From Ch.1 of Practice of Physics: 14, 15, 16, 22, 24, 26, 37, 38, 39, 40, 41, 42
+DO: From Ch.1 of Practice of Physics (starts on page 11): 14, 15, 16, 22, 24, 26, 37, 38, 39, 40, 41, 42
 
 You can divide up the problems between your group however you see fit, but every member of the group should turn in complete solutions to each problem.  You will have some time in class to work on these as a group.
 
 
-
+DUE: Tuesday, September 22
 

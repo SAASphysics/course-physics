@@ -1,0 +1,12 @@
+Assessment 3 
+############
+
+:date: 2015-10-09
+:category: assessments
+:tags: 
+:duedate: 2015-10-09
+
+
+Our third skill assessment will be on Friday, October 9th.  Exact contents will depend on progress during week 5, but will at least cover vector notation ("i hat"), graph interpretation, and the distinctions between position, displacement, distance, speed, and velocity.
+ 
+ 

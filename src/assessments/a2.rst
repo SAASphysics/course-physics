@@ -1,0 +1,11 @@
+Assessment 2 
+############
+
+:date: 2015-10-02
+:category: assessments
+:tags: M.3, M.6, 
+:duedate: 2015-10-02
+
+
+Our second skill assessment will cover distance, displacement, velocity, position, the collision problem, and speed. 
+ 
