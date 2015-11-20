@@ -3,7 +3,7 @@ Assessment 3
 
 :date: 2015-10-09
 :category: assessments
-:tags: 
+:tags: M.2, M.4, F.8 
 :duedate: 2015-10-09
 
 
