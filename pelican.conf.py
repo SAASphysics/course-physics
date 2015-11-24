@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"TODOCourse Name on Header"
-SITEURL = 'TODOhttp://full/url/toserver'
+SITENAME = u"SAASPhysics Winter2015-2016"
+SITEURL = 'http://markbetnel.com/courses/physics/winter2015-16'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
@@ -22,7 +22,7 @@ DISPLAY_PAGES_ON_MENU = False
 TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
 
-PLUGIN_PATHS = ['../../../pelican-plugins'] 
+PLUGIN_PATHS = ['/home/mark/Sites/pelican-plugins'] 
 PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican_vimeo', 'tipue_search', 'pelican_youtube', 'sitemap', 'latex']
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))

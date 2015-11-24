@@ -6,8 +6,6 @@ How to Schedule an Appointment
 :tags: overview, reassess, feedback, appointment
 
 
-TODO: Consider using a booking calendar for officehours
-
 1. Use the calendar below to select a day and time when we are both available.
 
 2. Fill out the requested info on when you want to meet and why
