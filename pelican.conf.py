@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"SAASPhysics Winter2015-2016"
-SITEURL = 'http://markbetnel.com/courses/physics/winter2015-16'
+SITEURL = 'http://markbetnel.com/courses/physics/current'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
@@ -28,3 +28,6 @@ PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican_vimeo', 'tipue_search'
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 SITEMAP = { 'format': 'xml'}
+
+LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person"><p>Please use the comment function on any page that you have questions about, use the Overview section for general course info, the Lessons and Homework sections to find out what you need to do, and the Quizzes section to look at past quizzes.</p></div>"""}
+
