@@ -8,7 +8,7 @@ Outline
 
 
 
-The following outline corresponds roughly to chapters of the textbook, Eric Mazur's **Principles and Practice of Physics**.  Topics may be added or removed, and the ordering may be changed, to follow student interest and timing.  You should consult with the instructor (and the textbook) for a thorough introduction to physics that is often covered in high school courses but which will be skipped in our couse (such as torque and angular momentum; simple harmonic motion and waves; and optics).
+The following outline corresponds roughly to chapters of the textbook, Eric Mazur's **Principles and Practice of Physics** ( `link to online version of textbook <https://www.masteringphysics.com/site/login.html>`_ ).  Topics may be added or removed, and the ordering may be changed, to follow student interest and timing.  You should consult with the instructor (and the textbook) for a thorough introduction to physics that is often covered in high school courses but which will be skipped in our couse (such as torque and angular momentum; simple harmonic motion and waves; and optics).
 
 
 

@@ -7,7 +7,7 @@ Standards
 
 
 
-I. Foundations (F.1 - F.7)
+I. Foundations (F.1 - F.8)
 --------------------------
 
    `F.1`_: I can differentiate between falsiable and un-falsiable hypotheses
@@ -36,8 +36,8 @@ I. Foundations (F.1 - F.7)
 .. _F.8: tags.html#F.8-ref
 
 
-II.  Motion (M.1 - M.9)
------------------------
+II.  Motion (M.1 - M.10)
+------------------------
 
    `M.1`_: I can construct multiple representations of the motion of an object
 
@@ -57,6 +57,8 @@ II.  Motion (M.1 - M.9)
 
    `M.9`_: I can compute the derivative of a function to find a function describing the instantaneous velocity
 
+   `M.10`_: I can use velocity transformations to compute the relative velocity of different objects in different frames of reference
+
 
 .. _M.1: tags.html#M.1-ref
 .. _M.2: tags.html#M.2-ref
@@ -67,9 +69,10 @@ II.  Motion (M.1 - M.9)
 .. _M.7: tags.html#M.7-ref
 .. _M.8: tags.html#M.8-ref
 .. _M.9: tags.html#M.9-ref
+.. _M.10: tags.html#M.10-ref
 
 
-III. Acceleration (A.1 - A.8)
+III. Acceleration (A.1 - A.6)
 -----------------------------
 
    `A.1`_: I can explain the distinction between acceleration and velocity
@@ -95,7 +98,7 @@ III. Acceleration (A.1 - A.8)
 
 
 
-IV. Momentum (P.1 - P.5)
+IV. Momentum (P.1 - P.6)
 ------------------------
 
    `P.1`_: I can determine whether interactions are present by considering the motion of objects
@@ -108,6 +111,7 @@ IV. Momentum (P.1 - P.5)
 
    `P.5`_: I can use the relationship between average force and the rate of momentum transfer
 
+   `P.6`_: I can compute the center of mass velocity of a system
  
 
 .. _P.1: tags.html#P.1-ref
@@ -115,12 +119,13 @@ IV. Momentum (P.1 - P.5)
 .. _P.3: tags.html#P.3-ref
 .. _P.4: tags.html#P.4-ref
 .. _P.5: tags.html#P.5-ref
+.. _P.5: tags.html#P.5-ref
+.. _P.6: tags.html#P.6-ref
 
 
 
 
-
-V. Energy (E.1 - E.5)
+V. Energy (E.1 - E.7)
 ---------------------
 
    `E.1`_: I can use different methods to visualize and analyze energy stores and transfers for a system
@@ -133,6 +138,15 @@ V. Energy (E.1 - E.5)
 
    `E.5`_: I can determine the energy transfer (work) into or out of a system with proper sign and units
 
+   `E.6`_: I can compute the non-convertible kinetic energy of a system
+
+   `E.7`_: I can explain what conditions lead to bigger/smaller convertible kinetic energies
+
+   `E.8`_: I can predict the result of a perfectly inelastic collision
+
+   `E.9`_: I can predict the result of a perfectly elastic collision
+
+   `E.10`_: I can compute and compare the total, convertible, and non-convertible kinetic energies
 
 
 .. _E.1: tags.html#E.1-ref
@@ -141,6 +155,42 @@ V. Energy (E.1 - E.5)
 .. _E.4: tags.html#E.4-ref
 .. _E.5: tags.html#E.5-ref
 .. _E.6: tags.html#E.6-ref
+.. _E.7: tags.html#E.7-ref
+.. _E.8: tags.html#E.8-ref
+.. _E.9: tags.html#E.9-ref
+.. _E.10: tags.html#E.10-ref
+
+VI.  Interactions
+-----------------
+
+   `I.1`_: I can tell when interactions are present by examining the behavior of the system
+
+   `I.2`_: I can draw free body diagrams for a system, with appropriate labeling
+
+   `I.3`_: I can use free body diagrams to explain the behavior of a system in equilibrium
+
+   `I.4`_: I can use free body diagrams to predict qualitatively the behavior of a system not in equilibrium
+
+   `I.5`_: I can use the interactions in a system to determine the acceleration
+
+   `I.6`_: I can find the equations of motion for a system using Newton's second law
+
+   `I.7`_: I can explain the relationship between the momentum principle, Newton's second law, and the equations of motion for a system
+
+   `I.8`_: I can compute the impulse/change of momentum caused by a force
+
+ 
+
+
+.. _I.1: tags.html#I.1-ref
+.. _I.2: tags.html#I.2-ref
+.. _I.3: tags.html#I.3-ref
+.. _I.4: tags.html#I.4-ref
+.. _I.5: tags.html#I.5-ref
+.. _I.6: tags.html#I.6-ref
+.. _I.7: tags.html#I.7-ref
+.. _I.8: tags.html#I.8-ref
+.. _I.9: tags.html#I.9-ref
 
 
 (more to come as we move through the course)

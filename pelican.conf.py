@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"SAASPhysics Winter2015-2016"
-SITEURL = 'http://markbetnel.com/courses/physics/current'
+SITEURL = 'http://markbetnel.com/courses/physics/w2015-16'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
@@ -13,8 +13,6 @@ DISQUS_SITENAME = 'betnelcourses'
 COMMENTS_INTRO = "Is something unclear? Leave a comment below:"
 
 DOCUTIL_CSS = True
-DISPLAY_PAGES_ON_MENU = True
-
 
 DEFAULT_PAGINATION = 20 
 DISPLAY_PAGES_ON_MENU = False
@@ -29,5 +27,9 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 SITEMAP = { 'format': 'xml'}
 
-LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person"><p>Please use the comment function on any page that you have questions about, use the Overview section for general course info, the Lessons and Homework sections to find out what you need to do, and the Quizzes section to look at past quizzes.</p></div>"""}
+LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person"><p>This is the archive copy of the winter2015-2016 trimester of SAAS Physics.  Please got to <a href="http://markbetnel.com/courses/physics/current">the current version</a> if you want to see the current trimester.</p></div>"""}
+
+MATH_JAX = {'color':'blue', 'menuSettings': {"zoom": "Click"}}
+
+HYPOTHESIS = True
 

@@ -10,7 +10,7 @@ THEME=elegant-course
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/courses/physics/current
+SSH_TARGET_DIR=markbetnel.com/courses/physics/w2015-16
 
 DROPBOX_DIR=~/Dropbox/Public/
 
