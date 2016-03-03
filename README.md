@@ -1,24 +1,7 @@
-Base template for the physics course website at SAAS,using the pelican blog engine. 
+Course documents for the spring trimester of Physics12 at Seattle Academy.
+
 
 Currently using a modification of the elegant theme, elegant-course.
-
-
-To modify for use: 
-
- 1. Modify links and settings to suit  the trimester
-
- 2. run make all to generate the site 
-
-
-
-Usage:
-
-  make all
-
-
-Dependencies:
-
-pelican-vimeo, pelican-youtube, elegant-course, create_calendar
 
 
 

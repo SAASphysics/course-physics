@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"SAASPhysics Base"
-SITEURL = 'http://markbetnel.com/courses/physics/base'
+SITENAME = u"SAASPhysics Spring2016"
+SITEURL = 'http://markbetnel.com/courses/physics/current'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
@@ -27,7 +27,7 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 SITEMAP = { 'format': 'xml'}
 
-LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person"><p>This is the About information for the site.  Change it to reflect the trimester or to archive the course.<p></div>"""}
+LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person"><p>This is the current version of SAAS Physics for Spring 2016.  For other trimesters, go to <a href="http://markbetnel.com/pages/teaching.html">the archive list</a>.<p></div>"""}
 
 MATH_JAX = {'color':'blue', 'menuSettings': {"zoom": "Click"}}
 
