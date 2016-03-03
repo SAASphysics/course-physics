@@ -1,22 +1,13 @@
-Bare template for a course website using the pelican blog engine. 
+Base template for the physics course website at SAAS,using the pelican blog engine. 
 
 Currently using a modification of the elegant theme, elegant-course.
 
 
 To modify for use: 
 
- 0. fork a copy of the repo for use in your course
-
- 1. search for TODO tags in the files to modify to suit your course
+ 1. Modify links and settings to suit  the trimester
 
  2. run make all to generate the site 
-
-
-Recommended:
-
- Create a "base" branch for the course with all the boilerplate established.  
-
- Create branches from the base for each iteration of the course.
 
 
 
