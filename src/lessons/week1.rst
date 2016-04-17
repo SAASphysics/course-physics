@@ -26,7 +26,15 @@ Day 2
 Day 3
 =====
 
- 1. The principle of relativity
+ 1. From the point of view of a person who has already thrown a baseball: can one tell whether it is the baseball moving, or the person moving?
+
+ 2. Quantitative and qualitative Doppler effect.  Use this `simulation <https://www.desmos.com/calculator/muf0cuejuf>`_ to see how the centers of the expanding waves are always where the emitter was *at the moment the sound was emitted*.  And to explain, qualitatively, how you an observer stationed to the right might be able to tell whether she is moving to the left, or the sound emitter is moving to the right. 
+
+ 3. Deriving the formulas that describe the frequency shift for a moving source of sound.
+
+ 4. Light waves, and the expected results of a moving source of light.
+
+ 5. The principle of relativity
 
 
    
