@@ -1,4 +1,4 @@
-Base template for the physics course website at SAAS,using the pelican blog engine. 
+Course website for Physics A, a college-level, algebra based physics class taught at Seattle Academy, using the pelican blog engine. 
 
 Currently using a modification of the elegant theme, elegant-course.
 
