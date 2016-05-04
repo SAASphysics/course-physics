@@ -6,18 +6,25 @@ Summary: Simplified UBD template for the course
 
 
 
+todo: finish writing standards
+todo: write assessment targets for each standard
+todo: write learning outline for each topic
+todo: write assignments for each topic
+todo: write assessments for each standard
+todo: background research
+todo: split classes
+todo: deployment issues - progressive reveal
+todo: deployment issues - integration of polling
+todo: deployment issues - standards based grading tool
+todo: dep
 
 ## Stage -1 - Goals
 
-Optimizing on multiple axes at a time.  This is a recipe for madness:
+Optimizing on multiple axes at a time.
 
 *   Why.  (Philosophical purpose of class)
-    *   
-
-*   What. (Content and skills covered, assessed)
-*   How.  
-
-
+*   What. (Content and skills covered and assessed)
+*   How.  (Time usage, projects done, assignments, etc., etc.)
 
 
 ## Stage 0 - Assumptions
@@ -47,17 +54,28 @@ Optimizing on multiple axes at a time.  This is a recipe for madness:
         * homework completion is poor and has not shown much benefit
         * 90% of work will need to be done in class
         * must have make-up plan for every class session (as in, How will student make up for having missed this?)
-
 	
-*   Lesson materials
-    *   One lesson per week documenting the plan and what actually happened
-    *   Gallery of pages, Notebooks, Desmos graphs, assignments, etc. organized by topic/tag
-    *   [polleverywhere][polleverywhere] -- will design clicker personal response questions through polleverywhere 
-    *   May use Haiku learning for SBG gradebook
-
+*   Materials, organized by
+    *   TIME
+        *  One lesson per week documenting the plan and what actually happened
+        *  Links to homework
+        *  Links to quizzes/assessments
+        *  Links to reference materials, activities, videos, etc.
+    *   TOPIC
+        *  One page per chapter
+        *  Links to weekly materials
+        *  Links to specific learning activities (notebooks, desmos, assignments, online polls)
+    *   TAG
+        *  Every page tagged by time, topic, skill, mode of presentation
 
 *   See also:
     *   Links to similar courses and class materials 
+    *   [polleverywhere](http://pollev.com/betnel)
+    *   [Haiku learning](https://www.myhaikuclass.com/mbetnel/physicsa) for SBG gradebook
+    *   [desmos](http://desmos.com/calculator)
+    *   [desmos activities](http://student.desmos.com)
+    *   [Jupyter notebook](http://jupyter.org)
+    *   [Schoology](http://schoology.com)
 
 ## Stage 0.5 - Some project ideas
 
@@ -70,6 +88,7 @@ This is out of order for UBD, but I have to write them down
 *   Construct an exemplar problem for each unit.  Other students read all, solve one or two, and vote on best (for pedagogy and for interest) -- I use results to choose problems for the next year
 *   Some students work as Learning Assistants in Science9 (or 6,7,8)
 *   Students prepare and deliver outreach materials for middle school / community
+*   Mini-capstone for each unit, can choose product (presentation, simulation, photo-essay, graphs)
 
 
 ## Stage 1 - Desired Results
@@ -85,6 +104,7 @@ Big Ideas
  * I can explain some of the most common barriers to success in physics as a class and as a career
  * Conservation laws constrain the possible results of interactions
 
+
 Scientific Practices
 
  * I can use representations and models to communicate physical phenomena and solve problems
@@ -95,7 +115,7 @@ Scientific Practices
  * I can use scientific explanations and theories to predict and to explain
  * I can construct models using appropriate tools and methods
 
-[Core Skills / Concepts / Descriptions](standards.html "Standards")
+[Physics Skills / Concepts](standards.html "Standards")
 
  * Motion
      *  I know the difference between position, distance, and displacement
@@ -105,13 +125,14 @@ Scientific Practices
      *  I can interpret/draw position vs. time graphs for objects moving with constant velocity
      *  I can interpret/draw velocity vs. time graphs for objects moving with constant velocity
      *  I can translate between motion maps, position vs. time graphs, and velocity vs. time graphs
-     *  I recognize when the constant velocity model applies and I use it when appropriate
+     *  I recognize when the constant velocity model applies and I can use it when appropriate
      *  I can articulate the difference between a vector and a scalar
      *  I can find the magnitude of a vector
-     *  I can use vector notation for appropriate quantities
-     *  I can calculate the average velocity and speed of an object
+     *  I can use vector notation for appropriate quantities 
      *  I can use the position update formula to relate changes in the position of an object to its average velocity
      *  I can use the position update formula to calculate the time take for an object to move from an initial to a final position
+     *  I can use velocity transformations to compute relative velocity
+     *  **I can predict where two objects moving at a constant velocity will intersect**
 
  * Acceleration
      *  I know the difference between acceleration and velocity
@@ -121,297 +142,250 @@ Scientific Practices
      *  I can interpret/draw the velocity vs. time graph for an object moving with changing velocity
      *  I can use motion concepts to solve problems involving objects with changing velocity
      *  I can use the position update formula to solve problems involving objects with changing velocity
+     *  I can articulate the difference between average velocity(speed) and instantaneous velocity(speed)
      *  I can explain the relationship between the position update formula and graphical representations of an object's motion
      *  I can explain the relationship between the position update formula and functional representations of an object's motion
 
  * Momentum
+     *  I can draw an interaction diagram and clearly specify the system and the surroundings for evey problem
      *  I can write the definition of momentum
      *  I can calculate the momentum of an object at any speed, with direction and proper units
      *  I can calculate the average rate of change of momentum
-
+     *  I can apply the reciprocity property of momentum to the interactions between objects
+     *  I can use momentum conservation to solve different problems
+     *  I can interpret/draw the position-time, velocity-time, and momentum-time graphs for an object
+     *  I can explain in what way momentum is a fundamental concept of physics 
 
  * Energy
+     *  I can calculate the kinetic energy of a particle at any speed
+     *  I can determine the energy transfer into or out of a system with proper sign and units
+     *  I can find the center of mass of a system
+     *  I can predict the motion of the center of mass of an isolated system
+     *  I can explain the difference between convertible and non-convertible kinetic energy
+     *  I can compute the convertible and non-convertible kinetic energy of a system
+     *  I can explain the difference between different forms of energy
+     *  I can draw and interpret diagrams of energy in a system
 
  * Interactions
      *  I can provide arguments for whether interactions are present in a given situation
-   
+     *  I can compute the momentum transfer(impulse) into/out of an object or system with direction and proper units
+     *  I can list the four fundamental types of interactions, their relative strengths, and their ranges
+     *  I can predict the result of a perfectly inelastic collision
+     *  I can predict the result of a perfectly elastic collision
+     *  I can infer the causes of a collision from the results
+     *  I know the properties of potential energy    
 
  * Force
      *  I know the relationship between acceleration, force, and mass  
      *  I can use interaction and force concepts to solve problems involving objects with changing velocity
+     *  I know the relationship between average/instantaneous force and the rate of momentum transfer
+     *  I know the relationship between average/instaneous force and time for a given momentum transfer(impulse)
+     *  I can use momentum transfer (impulse) to solve different problems
+     *  I can use the momentum update formula to relate changes in the momentum of an object/system to the net force and to changes in the object's motion
+     *  I can interpret/draw free body diagrams for systems and objects
+     *  I know when forces must be (un)balanced based on an object's motion
+     *  I can use force and motion concepts to determine unknown forces for objects moving at a constant velocity
+     *  I can apply the law of reciprocity to the forces between objects  
 
  * Work
- * Motion in a plane
-    *  I can find the magnitude of a multi-component vector
-    *  I can calculate the unit vector in the direction of a specified vector
-    *  I can add and subtract vectors graphically and algebraically
-    *  I can calculate the change in a vector quantity graphically and algebraically 
-    *  I can draw arrows to represent the velocity or momentum of an object at a particular location along its trajectory
+     *  I can calculate the potential energy of a system of two or more interacting particles
+     *  I can calculate the work done by a constant force
+     *  I can calculate the work done by a changing force
+     *  I can draw/interpret graphs of potential, kinetic, and total energy as functions of position and time
+     *  I can rate of energy transfer (power) in a system
 
+ * Motion in a plane
+     *  I can find the magnitude of a multi-component vector
+     *  I can calculate the unit vector in the direction of a specified vector
+     *  I can add and subtract vectors graphically and algebraically
+     *  I can calculate the change in a vector quantity graphically and algebraically 
+     *  I can draw arrows to represent the velocity or momentum of an object at a particular location along its trajectory
+     *  I can resolve vector forces into components
+     *  I understand how the parallel and perpendicular components of the net force affect an object's motion
+     *  I can calculate the dot product of two vectors
 
  * Gravitation
+
  * Special Relativity
-    *  I can articulate when it is appropriate to use a non-relativistic approximation
-
-
+     *  I can explain the classical Doppler effect
+     *  I can explain important differences between the behavior of particle-like and wave-like phenomena in classical physics
+     *  I can explain the Michelson-Morley experiments
+     *  I can explain Einstein's postulates
+     *  I can derive the time dilation of special relativity, starting from Einstein's postulates
+     *  I can articulate when it is appropriate to use a non-relativistic approximation
 
  * Programming
-   * I can write a correctly working program that has all the required features
-   * I can output values that are labeled and have correct units
-   * I can write a program with logical variable names, structure, and organization
-   * I can use documentation to describe the physical reasoning and the function of the code
-   * **I can write and analyse an accurate simulation of BLANK**
+     *  I can write a correctly working program that has all the required features
+     *  I can output values that are labeled and have correct units
+     *  I can write a program with logical variable names, structure, and organization
+     *  I can use documentation to describe the physical reasoning and the function of the code
+     *  **I can write and analyse an accurate simulation of BLANK**
+
+ * Motion in a circle
+
+ * Periodic motion
+
+ * Waves
+
+ * Optics
 
 
+### Summative Assessments
 
-1.  Get learners to the stage decribed in the "Software" section of
-    "[Good Enough Practices in Scientific Computing][good-enough]".
-    *   Goals
-        1.  Make it easy for people (including your future self) to understand and (re)use your code
-        2.  Modular, comprehensible, reusable, and testable all come together
-    *   Rules
-        1.  Every analysis step is represented textually (complete with parameter values)
-        2.  Every program or script has a brief explanatory comment at the start
-        3.  Programs of all kinds (including "scripts") are broken into functions
-        4.  No duplication
-        5.  Functions and variables have meaningful names
-        6.  Dependencies and requirements are explicit (e.g., a requirements.txt file)
-            *   This rule is *not* covered in this lesson
-        7.  Commenting/uncommenting are not routinely used to control program behavior
-        8.  Use a simple example or test data set to run to tell if it's working at all and whether it gives a known correct output for a simple known input
-        9.  Submit code to a reputable DOI-issuing repository upon submission of paper, just like data
-            *   This rule is *not* covered in this lesson
-2.  Enable them to make sense of other onlines tutorials and resources
-
-### Summative Assessment
-
-*   Midpoint: plot bar chart showing average GDP per continent
-*   Final: debug and extend a short multi-function program to handle data laid out differently
+*   Projects 
+*   Weekly quizzing
+*   ????
 
 ### Essential Questions
 
 How do I...
 
-*   ...read, analyze, and visualize a tabular data set?
-*   ...process multiple data sets?
-*   ...tell if my program is working correctly?
-*   ...fix it when it's not?
-*   ...find and use software other people have written instead of writing my own?
+*   ...analyze a physical phenomenon?
+*   ...set up an experiment to test a moddel?
+*   ...????
 
 ### Learners Will Be Able To...
 
-*   Run code interactively
-*   Run code saved in a file
-*   Write single-condition `if` statements
-*   Convert between basic data types (integer, float, string)
-*   Call built-in functions
-*   Use `help` and online documentation
-*   Import a library using an alias
-*   Call something from an imported library
-*   Read tabular data into an array or data frame
-*   Do collective operations on arrays and data frames
-*   Create simple plots of data in arrays and data frames
-*   Interpret common error messages
-*   Track down bugs by running small tests of program modules
-*   Write non-recursive functions taking a fixed number of named parameters
-*   Create literate programs in the Jupyter Notebook
+*   Solve independently and collaboratively
+*   Present reasoning about physical situations clearly and accurately
+*   ??
 
 ### Learners Will Know...
 
-*   That a program is a piece of lab equipment that implements an analysis
-    *   Needs to be validated/calibrated before/during use
-    *   Makes analysis reproducible, reviewable, shareable
-*   That programs are written for people, not for computers
-    *   Meaningful variable names
-    *   Modularity for readability as well as re-use
-    *   No duplication
-    *   Document purpose and use
-*   That there is no magic: the programs they use are no different in principle from those they build
-*   How to assign values to variables
-*   What integers, floats, strings, and data frames are
-*   How to trace the execution of a `for` loop
-*   How to create and index lists
-*   How to trace the execution of `if`/`else` statements
-*   The difference between defining and calling a function
-*   What a call stack is
-*   Where to find documentation on standard libraries
-*   How to find out what else scientific Python offers
+*   ??
+*   How to find out what else is out there in physics
+
 
 ## Stage 2 - Learning Plan
 
 ### [Identity](identity.html)
 
-*   Teaching: 3 days
+*   Teaching: 3-6 days
 *   Topics: history, implicit association, career statistics, personal stories, learning model, class model
-*   Exercises: 0 min (accounted for in teaching time - no separate exercise)
-    *   Run the Notebook
-    *   Create a few Markdown cells (just formatted)
-    *   Create and execute a Python cell that prints 1+2 (to show that cells can be executed)
+*   Exercises: 
+    *   Better know a scientist
+    *   IAT tests and discussion
+    *   Why this class is structured the way it is
+    *   ???
 
 ### [Problem Solving](problems.html)
 	
-*   Teaching: 2 days
+*   Teaching: 2-4 days
 *   Topics: estimation, problem solving process and rubric
-*   Exercises: 5 min
-    *   Trace behavior of swapping values of two variables using an intermediate variable
-    *   Calculate elapsed time in seconds using named values for seconds per minute, etc.
+*   Exercises:
+    *   Fermi problem homework 
+    *   Introduce rubric
+    *   Pair/peer solving (modeled on pair programming)
+    *   Peer editing/grading of problem solutions 
 
 ### [Motion](motion.html)
 
-*   Teaching: 8 days
+*   Teaching: 12 days
 *   Topics: constant velocity, graphing, predicting position
-*   Exercises: 5 min
-    *   Predict result types (or errors) of various operations
-    *   Add conversion functions to broken code to make it work
+*   Exercises: 
+    *   Is this car really a constant velocity car?
+    *   
 
-### [Built-in Functions and Help](04-built-in.html)
+### [Acceleration](acceleration.html)
 
-*   Teaching: 10 min
-    *   Include re-running cells and re-running all
-*   Exercises: 10 min
-    *   Chain calculations with max and min
-    *   Find a useful method using help(str)
-    *   Parsons Problem to achieve specific results with string methods
+*   Teaching: 8 days
+*   Topics: 
+*   Exercises: 
+    *   ??   
+    *   ??
+    *   ??
 
-### [Error Messages](05-error-messages.html)
+### [Momentum](momentum.html)
 
-*   Teaching: 5 min (review of error messages seen to date)
-*   Exercises: 10 min
-    *   Identify causes of common errors (but don't actually fix)
-
-### [Libraries](06-libraries.html)
-
-*   Teaching: 5 min
-*   Exercises: 5 min
-    *   Operations with math library
-    *   Look things up in the python.org docs
-
-### *[Coffee: 15 min](07-coffee.html)*
-
-### [Reading Tabular Data](08-reading-tabular.html)
-
-*   Teaching: 5 min
-*   Exercises: 10 min (because some people will have trouble finding the data set's path)
-    *   Read one continent's subset of gapminder CSV data
-*   Callout:
-    *   How to read data from Excel spreadsheets via export to CSV
-
-### [Pandas Data Frames](09-data-frames.html)
-
-*   Teaching: 10 min
-*   Exercises: 10 min
-    *   Create data frame manually
-    *   Select individual values
-    *   Select various subsets of data
-    *   Normalize values (scale to 0..1)
-
-### [Plotting](10-plotting.html)
-
-*   Teaching: 10 min (to show a variety of plots and debug display problems)
-*   Exercises: 10 min
-    *   Plot normalized change in GDP over time (tweaking provided code)
-
-### [Lists](11-lists.html)
-
-*   Teaching: 5 min
-    *   Note: `range` doesn't produce a simple list in Python 3, so we can't use that for teaching.
-*   Exercises: 10 min
-    *   Toy examples of lists, indexing, etc.
-
-### [For Loops](12-for-loops.html)
-
-*   Teaching: 10 min
-*   Exercises: 10 min
-    *   Reverse a string by repeated append
-    *   Manually trace execution of loop
-    *   Interrupt a running program
-
-### [Looping Over Data Sets](13-looping-data-sets.html)
-
-*   Teaching: 5 min (use `glob` to get filenames)
-*   Exercises: 10 min
-    *   Count rows of each data set
-    *   Check number of columns in each data set is the same
-
-### *[Lunch: 60 min](14-lunch.html)*
-
-### [Conditionals](15-conditionals.html)
-
-*   Teaching: 5 min (show conditionals inside loop)
-*   Exercises: 10 min
-    *   Count vowels
-    *   Report badly-sized files inside loop
-
-### [Writing Functions](16-writing-functions.html)
-
-*   Teaching: 10 min
-*   Exercises: 15 min
-    *   Check size of a single data file
-    *   Check sizes of all data files in a directory
-        *   Write new function using previous function
-
-### [The Call Stack](17-call-stack.html)
-
-*   Teaching: 10 min
-*   Exercises: 15 min
-    *   Add docstrings to functions written earlier
-
-### *[Coffee: 15 min](18-coffee.html)*
-
-### [Defensive Programming](19-defensive.html)
-
-*   Teaching: 10 min
-*   Exercise: 15 min
-
-### [Programming Style](20-style.html)
-
-*   Teaching: 10 min (present checklist)
-*   Exercises: 15 min
-    *   Do a code review
-
-### [Next Steps](21-next-steps.html)
-
-*   Teaching: 15 min
-    *   Where to look next
-*   Exercises: 0 min
-
-### [Wrap-Up](22-wrap.html)
-
-*   Teaching: 15 min
-    *   Where to look next
-*   Exercises: 0 min
-
-[dc-website]: http://datacarpentry.org
-[gapminder-data]: http://www.gapminder.org/data/
-[good-enough]: https://github.com/swcarpentry/good-enough-practices-in-scientific-computing
-[instructor-training]: https://swcarpentry.github.io/instructor-training/
-[swc-website]: http://software-carpentry.org
-[polleverywhere]: http://pollev.com/betnel
-
-1.  Assumptions
-
-2.  Desired results:
+*   Teaching: 8 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
 
 
-3.  Learning plan:
-    each episode has a heading that summarizes what will be covered,
-    then estimates time that will be spent on teaching and on exercises,
-    while the exercises are given as bullet points.
+### [Energy](energy.html)
 
-While it looks like a waterfall process, in practice I did this:
+*   Teaching: 8 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
 
-1.  Draft the assumptions.
 
-2.  Do one bullet point for each of several learning milestones.
+### [Interactions](interactions.html)
 
-3.  Draft the desired results.
+*   Teaching: 4 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
 
-4.  Update the learning milestones (still as just one bullet point each, no time estimates or exercises).
 
-5.  Get early feedback from four people.
+### [Force](force.html)
 
-6.  Do a full pass to flesh out the assumptions and add time estimates and exercises.
+*   Teaching: 12 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
 
-7.  Ask for feedback and start iterating (mostly to cut things).
+
+### [Work](work.html)
+
+*   Teaching: 12 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
+
+
+### [Gravitation](gravitation.html)
+
+*   Teaching: 4 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
+
+
+
+### [Special Relativity](specialrelativity.html)
+
+*   Teaching: 12 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
+
+
+
+### [Programming](programming.html)
+
+*   Teaching: 8 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
+
+
+### [Motion in a Circle](circularmotion.html)
+
+*   Teaching: 8 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
+
+
+### [Periodic Motion](periodicmotion.html)
+
+*   Teaching: 8 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
+
+
+
+
+### [Waves](waves.html)
+
+*   Teaching: 8 days
+*   Topics:
+*   Exercises: 
+    *   ?? 
+
+
 
 
