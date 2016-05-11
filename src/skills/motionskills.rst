@@ -1,5 +1,5 @@
-Motion
-######
+MotionSkills
+############
 
 :date: 2016-04-29
 :category: skills

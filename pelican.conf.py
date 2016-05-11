@@ -21,7 +21,7 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
 
 PLUGIN_PATHS = ['/home/mark/Sites/pelican-plugins'] 
-PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican_vimeo', 'tipue_search', 'pelican_youtube', 'sitemap', 'latex']
+PLUGINS = ['create_calendar', 'gallery', 'tipue_search', 'sitemap', 'latex']
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
@@ -32,4 +32,7 @@ LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/P
 MATH_JAX = {'color':'blue', 'menuSettings': {"zoom": "Click"}}
 
 HYPOTHESIS = True
+
+# Uncommment this to put future dated items in drafts
+#WITH_FUTURE_DATES = False
 

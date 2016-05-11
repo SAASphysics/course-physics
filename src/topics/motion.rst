@@ -1,0 +1,17 @@
+Motion
+######
+
+:date: 2016-09
+:summary: 
+:category: topics
+:tags: motion 
+
+
+TODO
+
+ * Place links to weekly materials.
+ * use tags to connect to other pages on the same topic 
+ * Write outline/overview of topic
+ * link to relevant standards
+
+   

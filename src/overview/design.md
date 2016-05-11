@@ -6,19 +6,22 @@ Summary: Simplified UBD template for the course
 
 
 
-todo: finish writing standards
-todo: write assessment targets for each standard
-todo: write learning outline for each topic
-todo: write assignments for each topic
-todo: write assessments for each standard
-todo: background research
-todo: split classes
-todo: deployment issues - progressive reveal
-todo: deployment issues - integration of polling
-todo: deployment issues - standards based grading tool
-todo: dep
+* todo: write identity unit
+* todo: finish writing standards for C
+* todo: write assessment targets for each standard
+* todo: write learning outline for each topic
+* todo: write assignments for each topic
+* todo: write assessments for each standard
+* todo: background research
+* todo: split classes
+* todo: deployment issues - progressive reveal
+* todo: deployment issues - integration of polling
+* todo: deployment issues - connect standards to schoology
+* todo: deployment issues - ForTeacher status tag that puts page on teacher site, not on student site
+* todo: grading policies update
+* todo: new contexts
 
-## Stage -1 - Goals
+## Stage -1 - Axes
 
 Optimizing on multiple axes at a time.
 
@@ -71,7 +74,6 @@ Optimizing on multiple axes at a time.
 *   See also:
     *   Links to similar courses and class materials 
     *   [polleverywhere](http://pollev.com/betnel)
-    *   [Haiku learning](https://www.myhaikuclass.com/mbetnel/physicsa) for SBG gradebook
     *   [desmos](http://desmos.com/calculator)
     *   [desmos activities](http://student.desmos.com)
     *   [Jupyter notebook](http://jupyter.org)
@@ -130,9 +132,9 @@ Scientific Practices
      *  I can find the magnitude of a vector
      *  I can use vector notation for appropriate quantities 
      *  I can use the position update formula to relate changes in the position of an object to its average velocity
-     *  I can use the position update formula to calculate the time take for an object to move from an initial to a final position
+     *  I can use the position update formula to calculate the time taken for an object to move from an initial to a final position
      *  I can use velocity transformations to compute relative velocity
-     *  **I can predict where two objects moving at a constant velocity will intersect**
+     *  **I can predict where and when two objects moving at a constant velocity will intersect**
 
  * Acceleration
      *  I know the difference between acceleration and velocity
@@ -154,7 +156,7 @@ Scientific Practices
      *  I can apply the reciprocity property of momentum to the interactions between objects
      *  I can use momentum conservation to solve different problems
      *  I can interpret/draw the position-time, velocity-time, and momentum-time graphs for an object
-     *  I can explain in what way momentum is a fundamental concept of physics 
+     *  I can explain in what way momentum is a foundational concept of physics 
 
  * Energy
      *  I can calculate the kinetic energy of a particle at any speed
@@ -204,8 +206,6 @@ Scientific Practices
      *  I understand how the parallel and perpendicular components of the net force affect an object's motion
      *  I can calculate the dot product of two vectors
 
- * Gravitation
-
  * Special Relativity
      *  I can explain the classical Doppler effect
      *  I can explain important differences between the behavior of particle-like and wave-like phenomena in classical physics
@@ -220,6 +220,8 @@ Scientific Practices
      *  I can write a program with logical variable names, structure, and organization
      *  I can use documentation to describe the physical reasoning and the function of the code
      *  **I can write and analyse an accurate simulation of BLANK**
+
+ * Gravitation
 
  * Motion in a circle
 
@@ -242,17 +244,14 @@ How do I...
 
 *   ...analyze a physical phenomenon?
 *   ...set up an experiment to test a moddel?
-*   ...????
 
 ### Learners Will Be Able To...
 
 *   Solve independently and collaboratively
 *   Present reasoning about physical situations clearly and accurately
-*   ??
 
 ### Learners Will Know...
 
-*   ??
 *   How to find out what else is out there in physics
 
 
@@ -267,6 +266,7 @@ How do I...
     *   IAT tests and discussion
     *   Why this class is structured the way it is
     *   ???
+*   Return to topic on a weekly/biweekly basis
 
 ### [Problem Solving](problems.html)
 	
@@ -285,6 +285,7 @@ How do I...
 *   Exercises: 
     *   Is this car really a constant velocity car?
     *   
+
 
 ### [Acceleration](acceleration.html)
 
@@ -387,5 +388,10 @@ How do I...
     *   ?? 
 
 
+### [Optics](optics.html)
 
+*   Teaching: 4 days
+*   Topics:
+*   Exercises:
+*   Labs:
 
