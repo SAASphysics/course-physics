@@ -19,7 +19,7 @@ TODO
 
 Links
  * tags.html#problemsolving
- * `Week 3 <week3.html>`_
+ * `Week 2 <week-2.html>`_
  * 
 
 Goals

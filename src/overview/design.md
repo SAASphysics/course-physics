@@ -15,7 +15,7 @@ Summary: Simplified UBD template for the course
 * todo: background research
 * todo: split classes
 * todo: deployment issues - progressive reveal
-* todo: deployment issues - integration of polling
+* todo: deployment issues - integration of polling: landslide slidedecks. Work on .cfg
 * todo: deployment issues - connect standards to schoology
 * todo: deployment issues - ForTeacher status tag that puts page on teacher site, not on student site
 * todo: grading policies update
