@@ -36,7 +36,7 @@ Wednesday or Thursday, September 14/15
 
  * Pair solving practice, with presentations
  * Group feedback on solving technique
-
+ * Epistemological beliefs about physics survey
 
 =====
 Day 4

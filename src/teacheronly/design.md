@@ -3,7 +3,7 @@ Date: 2016-04-20
 Tags: design, ubd
 Category: overview
 Summary: Simplified UBD template for the course
-
+forsite: teacher
 
 
 * todo: write identity unit
@@ -14,12 +14,12 @@ Summary: Simplified UBD template for the course
 * todo: write assessments for each standard
 * todo: background research
 * todo: split classes
-* todo: deployment issues - progressive reveal
 * todo: deployment issues - integration of polling: landslide slidedecks. Work on .cfg
 * todo: deployment issues - connect standards to schoology
 * todo: deployment issues - ForTeacher status tag that puts page on teacher site, not on student site
 * todo: grading policies update
 * todo: new contexts
+* todo: integrate with textbook site
 
 ## Stage -1 - Axes
 
@@ -54,10 +54,11 @@ Optimizing on multiple axes at a time.
         * wide range of experience, from None to Guru
         * [vpython](http://vpython.org "vpython") in [Jupyter](http://jupyter.org "Jupyter notebook") has debugging, exposes all of python and Pandas, docker/binder for pushing, github integration, ecosystem
     *   WORK
-        * homework completion is poor and has not shown much benefit
         * 90% of work will need to be done in class
         * must have make-up plan for every class session (as in, How will student make up for having missed this?)
-	
+        * homework through MasteringPhysics.  Approximately 3 hours per week of reading, reading quizzes, and homework problems, done alone
+	* this homework will be to develop critical reading skills and serve as a checkpoint.  Will need to train them to read carefully
+
 *   Materials, organized by
     *   TIME
         *  One lesson per week documenting the plan and what actually happened
@@ -78,6 +79,7 @@ Optimizing on multiple axes at a time.
     *   [desmos activities](http://student.desmos.com)
     *   [Jupyter notebook](http://jupyter.org)
     *   [Schoology](http://schoology.com)
+    *   [Mastering Physics](
 
 ## Stage 0.5 - Some project ideas
 
@@ -194,7 +196,7 @@ Scientific Practices
      *  I can calculate the work done by a constant force
      *  I can calculate the work done by a changing force
      *  I can draw/interpret graphs of potential, kinetic, and total energy as functions of position and time
-     *  I can rate of energy transfer (power) in a system
+     *  I can calculate the rate of energy transfer (power) in a system
 
  * Motion in a plane
      *  I can find the magnitude of a multi-component vector
@@ -236,7 +238,7 @@ Scientific Practices
 
 *   Projects 
 *   Weekly quizzing
-*   ????
+*   Progress Portfolios
 
 ### Essential Questions
 
@@ -257,9 +259,17 @@ How do I...
 
 ## Stage 2 - Learning Plan
 
+### Class pattern
+
+*   1 day of exploration and discovery, open-ended problem solving, without (much) guidance
+*   1 day of teacher-led lecture/discussion, polling, problem solving
+*   Double block, half Lab/measurement based, half peer-solving interspersed with discussion/polling
+*   Friday -- assessments, big picture discussion, polling, presentations
+*   Broken as necessary for class need and for schedule changes
+
 ### [Identity](identity.html)
 
-*   Teaching: 3-6 days
+*   Teaching: 3-5 days
 *   Topics: history, implicit association, career statistics, personal stories, learning model, class model
 *   Exercises: 
     *   Better know a scientist
@@ -270,7 +280,7 @@ How do I...
 
 ### [Problem Solving](problems.html)
 	
-*   Teaching: 2-4 days
+*   Teaching: 4 days
 *   Topics: estimation, problem solving process and rubric
 *   Exercises:
     *   Fermi problem homework 
@@ -284,7 +294,7 @@ How do I...
 *   Topics: constant velocity, graphing, predicting position
 *   Exercises: 
     *   Is this car really a constant velocity car?
-    *   
+    *   Where & when will these two cars collide?
 
 
 ### [Acceleration](acceleration.html)

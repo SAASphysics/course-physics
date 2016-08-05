@@ -15,6 +15,8 @@ Day 1
 
 Monday, September 19
 
+
+
 =====
 Day 2
 =====

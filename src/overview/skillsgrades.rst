@@ -6,17 +6,7 @@ How to check your skills scores
 :tags: standards, skills, grades, improvement
 
 
-Use this site to keep track of what skills you need to improve on.
-
-
-  `activegrade.appspot.com <http://activegrade.appspot.com>`_
-
-  School code: SAAS
-
-  username: school email address
-
-  password: Ask Mark for your starting password, then change it
-
+Current mastery level scores will be kept in the class gradebook in Schoology.  Check there to find out which skills you've given me evidence of mastery for, and which skills I think you still need to work on.
 
 
 

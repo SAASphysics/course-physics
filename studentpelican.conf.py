@@ -36,3 +36,5 @@ HYPOTHESIS = True
 # Uncommment this to put future dated items in drafts
 WITH_FUTURE_DATES = False
 
+# List folders not to include on this version of the site.
+ARTICLE_EXCLUDES = ['teacheronly']
