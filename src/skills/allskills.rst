@@ -1,14 +1,14 @@
 AllSkills
 #########
 
-:date: 2015-09-01
+:date: 2016-08-01
 :category: skills
 :tags: outline, topics, standards, skills, concepts
 
 
 
 
-`Big Ideas <bigideas.html>`_
+`Big Ideas <bigideas.html>`_ 
 
  * I can use the ideas and methods of physics and science to better understand the world 
  * I can be a physicist / scientist
@@ -18,7 +18,7 @@ AllSkills
  * Conservation laws constrain the possible results of interactions
 
 
-Scientific Practices
+`Scientific Practices <practices.html>`_
 
  * I can use representations and models to communicate physical phenomena and solve problems
  * I can use mathematics appropriately
@@ -29,11 +29,11 @@ Scientific Practices
  * I can construct models using appropriate tools and methods
 
 
-Technical Skills
+Physics Skill/Concept Areas
 
- * Motion
- * Acceleration
- * Momentum
+ * `Motion <motionskills.html>`_
+ * `Acceleration <accelerationskills.html>`_
+ * `Momentum <momentumskills.html>`_
  * Energy
  * Interactions
  * Force
@@ -41,4 +41,11 @@ Technical Skills
  * Motion in a plane
  * Gravitation
  * Special Relativity
+ * Programming
+ * Circular Motion
+ * Periodic Motion
+ * Waves
+ * Optics
+
+
 

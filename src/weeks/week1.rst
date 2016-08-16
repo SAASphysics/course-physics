@@ -11,7 +11,7 @@ Week 1
 Day 1
 =====
 
-Tuesday, September 6 (Monday schedule)
+Tuesday, September 6 (Tuesday schedule)
 
  * `Identity <identity.html>`_
  * What is physics?
@@ -24,7 +24,7 @@ Tuesday, September 6 (Monday schedule)
 Day 2
 =====
 
-September 7 (Tuesday schedule)
+September 7/8 (Wednesday/Thursday schedule)
 
  * Science characters
 
@@ -33,7 +33,7 @@ September 7 (Tuesday schedule)
 Day 3
 =====
 
-September 8 or 9 (Wednesday or Thursday schedule)
+September 9 (Friday schedule)
 
  * Deep dive into the data
  * Why?? What could possibly explain these differences in outcomes?
