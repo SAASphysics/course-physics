@@ -1,7 +1,7 @@
 Identity - Race 
 ###############
 
-:date: 2016-09-05
+:date: 2016-10-05
 :summary: Overview of materials related to scientific and physicist identity
 :category: topics
 :tags: identity, success, gender, obstacles, bias, systemic, race
@@ -16,7 +16,7 @@ TODO
 Links
    
  * tags.html#bigideas
- * `Week 1 <week-1.html>`_
+ * `Week 4 <week-4.html>`_
 
 Resources
 

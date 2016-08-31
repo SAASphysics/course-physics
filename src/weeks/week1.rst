@@ -1,45 +1,43 @@
-Week 1  
+Week 1
 ######
 
-:date: 2016-09-06
-:summary: Introduction to the class 
+:date: 2016-09-05
+:summary: Problem solving is a key component of physics, and we will explicitly practice it as an end-in-itself
 :category: weeks
-:tags: mechanics, grading, overview, identity, big ideas
+:tags: identity, problem solving, estimation, fermi, rubric, pair solving
+
 
 
 =====
 Day 1
 =====
 
-Tuesday, September 6 (Tuesday schedule)
+Tuesday, September 6
 
- * `Identity <identity.html>`_
- * What is physics?
- * Journaling assignment
- * Reading assignment
- * Intro survey
+ * Finish the constant velocity problem
+ * How to solve problems
+ * Pair solving
+ * How to give feedback
+ * `Problem solving <problems.html>`_
 
 
 =====
 Day 2
 =====
 
-September 7/8 (Wednesday/Thursday schedule)
+Wednesday or Thursday, September 7/8
 
- * Science characters
-
+ * Pair solving practice
+ * It's all about reasoning -- make your reasoning explicit, and the problem will solve itself.
+ * Group feedback on solving technique
 
 =====
 Day 3
 =====
 
-September 9 (Friday schedule)
+Friday, September 9
 
- * Deep dive into the data
- * Why?? What could possibly explain these differences in outcomes?
-
-
-
-
+ * Pair solving practice
+ * Epistemological beliefs about physics survey
 
    
