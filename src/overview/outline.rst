@@ -78,9 +78,6 @@ Fall
   g. Conservation of momentum
 
 
-Winter
-------
-
 5. Energy
 
   a. Types of collisions
@@ -95,6 +92,9 @@ Winter
 
   f. Conservation of energy
 
+
+Winter
+------
 6. Relative motion
 
   a. Relativity of motion
